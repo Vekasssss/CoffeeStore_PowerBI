@@ -1,0 +1,29 @@
+COFFEE SHOP - SALES DASHBOARD 
+
+Amazing insights derived from the datasets.
+Total Sales:
+
+Total sales amount to $698.8K.
+Total Orders and Quantity:
+
+Total orders: 149.1K.
+Total quantity: 214.5K.
+Sales by Weekday:
+
+Weekdays account for 72% of sales.
+Weekends account for 28% of sales.
+Sales by Store Location:
+
+Hell's Kitchen: $236,511
+Astoria: $232,244
+Lower Manhattan: $230,057
+Sales by Hour:
+
+The document includes detailed hourly sales data for each day of the week, with peak sales hours generally around the morning (8 AM to 10 AM) and early afternoon (12 PM to 2 PM).
+Sales by Product Category and Store Location:
+
+Product categories include Bakery, Branded Coffee, and Coffee Beans.
+Sales data is broken down by each store location.
+Monthly Sales by Store Location:
+
+The report shows monthly sales figures for different store locations.
